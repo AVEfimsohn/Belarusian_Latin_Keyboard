@@ -9,6 +9,7 @@
 ![image](https://github.com/user-attachments/assets/ecd4dbc3-73b3-4fb0-a4d8-f91d0fa22771)
 
 3. **Done!** The layout will appear on the Windows language bar
+
 ![image](https://github.com/user-attachments/assets/48478fbe-a579-46c0-9baa-873860df9eb1)
 
 ## 💎 Features
