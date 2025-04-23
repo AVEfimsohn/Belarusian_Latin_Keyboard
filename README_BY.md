@@ -2,14 +2,18 @@
 
 ## 📥 Ustanoŭka  
 1. **Skačajcie** repazitar (fajly `.msi`/`setup.exe`)
+
 ![image](https://github.com/user-attachments/assets/92de7bed-8984-496f-98d7-d400d96d3a8e)
 
-3. **Zapuscicie** `setup.exe`
+2. **Zapuscicie** `setup.exe`
 
 ![image](https://github.com/user-attachments/assets/ecd4dbc3-73b3-4fb0-a4d8-f91d0fa22771) 
 
 3. **Hatova!** Raskładka zjavicca ŭ moŭnaj paneli Windows  
 ![image](https://github.com/user-attachments/assets/48478fbe-a579-46c0-9baa-873860df9eb1)
+
+## 🔡 Raskładka
+![12](https://github.com/user-attachments/assets/a2c2b726-29c1-4a80-87ba-c8756ca358a8)
 
 ## 💎 Asabłivaści  
 ✅ Stvorana ŭ MSKLC
